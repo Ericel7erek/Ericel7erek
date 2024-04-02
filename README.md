@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 
 ![Ericel7erek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericel7erek&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericel7erek&layout=pie)](https://github.com/Ericel7erek/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericel7erek&langs_count=8)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericel7erek&layout=compact)
