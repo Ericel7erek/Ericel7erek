@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Ericel7erek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericel7erek&show_icons=true&theme=chartreuse-dark)
+![Ericel7erek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericel7erek&show_icons=true&theme=chartreuse-dark&icon_color=4c71f2)
 <br/>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericel7erek&layout=compact&theme=chartreuse-dark)
