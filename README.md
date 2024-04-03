@@ -18,7 +18,9 @@
   100% { transform: rotate( 0.0deg) }
 }
 </style>
+<body>
 <h1>Hi there! <span class="wave">👋</span></h1>
+</body>
 <!--
 **Ericel7erek/Ericel7erek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
