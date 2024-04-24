@@ -1,5 +1,5 @@
 
-(https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF000000&random=false&width=435&lines=Hello+there+%F0%9F%91%8B)
+[!(https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF000000&random=false&width=435&lines=Hello+there+%F0%9F%91%8B)]
 
 <!--
 **Ericel7erek/Ericel7erek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
